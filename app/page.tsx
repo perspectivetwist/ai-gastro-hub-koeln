@@ -4,6 +4,7 @@ import MoreProblemsSection from "@/components/MoreProblemsSection";
 import SolutionSection from "@/components/SolutionSection";
 import ProductsSection from "@/components/ProductsSection";
 import VisionSection from "@/components/VisionSection";
+import GastroFaq from "@/components/GastroFaq";
 import TrustSection from "@/components/TrustSection";
 
 export default function Home() {
@@ -15,6 +16,7 @@ export default function Home() {
       <SolutionSection />
       <ProductsSection />
       <VisionSection />
+      <GastroFaq />
       <TrustSection />
     </>
   );

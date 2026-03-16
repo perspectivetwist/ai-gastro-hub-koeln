@@ -6,55 +6,43 @@ export default function SolutionSection() {
       style={{ zIndex: 1 }}
     >
       <h2 className="text-3xl md:text-4xl font-bold mb-8">
-        Deshalb haben wir AI-Shift-Drift in&apos;s Leben gerufen.
+        Deshalb gibt es <span className="gradient-accent">AI-Shift-Drift</span>{" "}
+        für Restaurants.
       </h2>
 
       <p
         className="text-xl mb-16 max-w-3xl leading-relaxed"
         style={{ color: "#cccccc" }}
       >
-        Wer nur seine Sichtbarkeit optimiert, aber seine Website für Agentenstrukturen nicht nutzbar macht, verliert trotzdem. Wer nutzbar, aber unsicher ist, riskiert mehr als er gewinnt.
-        <br />
-        <br />
-        AI Shift Drift ist das erste Ökosystem das alle drei Dimensionen
-        zusammendenkt: Sichtbar. Nutzbar. Sicher.
-        <br />
-        <br />
-        Nicht als Versprechen. Als ein messbares System. Als dein zukünftiger Wachstumskanal.
+        Nur sichtbar zu sein reicht nicht. Dein Restaurant muss für KI-Agenten
+        auch buchbar und sicher sein. AI Shift Drift ist das erste Ökosystem das
+        alle drei Dimensionen zusammendenkt: Sichtbar. Nutzbar. Sicher.
       </p>
 
-      {/* Pyramide */}
-      <div className="flex flex-col items-center gap-3 max-w-2xl mx-auto">
-        {/* Spitze: Quantum */}
-        <div className="w-[40%] flex gap-0 rounded-lg overflow-hidden" style={{ background: "rgba(255,255,255,0.03)" }}>
-          <div className="w-1.5 flex-shrink-0" style={{ background: "#FF1744" }} />
-          <div className="py-4 px-5 w-full text-center">
-            <div className="text-lg font-bold" style={{ color: "#FF1744" }}>Quantum</div>
-            <div className="text-xs" style={{ color: "#888" }}>Sicher</div>
+      {/* House Image + Labels */}
+      <div className="flex flex-col md:flex-row items-center gap-12 w-full max-w-[800px] mx-auto">
+        <img
+          src="/images/asd-house.png"
+          alt="AI Shift Drift Dimensionen"
+          className="max-w-[500px] w-full rounded-2xl"
+        />
+        <div className="hidden md:flex flex-col justify-between" style={{ height: "500px" }}>
+          <div>
+            <span style={{ color: "#FF0044" }} className="font-bold text-2xl">
+              Quantum
+            </span>
+            <span style={{ color: "#666" }}> – Sicher</span>
           </div>
-          <div className="w-1.5 flex-shrink-0" style={{ background: "#FF1744" }} />
-        </div>
-        {/* Verbinder */}
-        <div className="h-4 w-px" style={{ background: "#333" }} />
-        {/* Mitte: Slipstream */}
-        <div className="w-[65%] flex gap-0 rounded-lg overflow-hidden" style={{ background: "rgba(255,255,255,0.03)" }}>
-          <div className="w-1.5 flex-shrink-0" style={{ background: "#FFE600" }} />
-          <div className="py-4 px-5 w-full text-center">
-            <div className="text-lg font-bold" style={{ color: "#FFE600" }}>Slipstream</div>
-            <div className="text-xs" style={{ color: "#888" }}>Nutzbar</div>
+          <div>
+            <span style={{ color: "#FFE600" }} className="font-bold text-2xl">
+              Slipstream
+            </span>
+            <span style={{ color: "#666" }}> – Nutzbar</span>
           </div>
-          <div className="w-1.5 flex-shrink-0" style={{ background: "#FFE600" }} />
-        </div>
-        {/* Verbinder */}
-        <div className="h-4 w-px" style={{ background: "#333" }} />
-        {/* Basis: Wake */}
-        <div className="w-full flex gap-0 rounded-lg overflow-hidden" style={{ background: "rgba(255,255,255,0.03)" }}>
-          <div className="w-1.5 flex-shrink-0" style={{ background: "linear-gradient(180deg, #00AAFF, #00FF88)" }} />
-          <div className="py-4 px-5 w-full text-center">
-            <div className="text-lg font-bold gradient-wake">Wake</div>
-            <div className="text-xs" style={{ color: "#888" }}>Sichtbar</div>
+          <div>
+            <span className="font-bold text-2xl gradient-wake">Wake</span>
+            <span style={{ color: "#666" }}> – Sichtbar</span>
           </div>
-          <div className="w-1.5 flex-shrink-0" style={{ background: "linear-gradient(180deg, #00AAFF, #00FF88)" }} />
         </div>
       </div>
     </section>
