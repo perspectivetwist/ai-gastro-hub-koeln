@@ -5,12 +5,12 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "AI-Readiness für Restaurants | AI Shift Drift",
+  title: "AI-Readiness für die Gastronomie | AI Shift Drift",
   description:
     "Ist dein Restaurant bereit für die KI-Ära? Kostenlose Scanner für Sichtbarkeit, Nutzbarkeit und Sicherheit. Jetzt prüfen.",
   robots: { index: true, follow: true },
   openGraph: {
-    title: "AI-Readiness für Restaurants | AI Shift Drift",
+    title: "AI-Readiness für die Gastronomie | AI Shift Drift",
     description:
       "Ist dein Restaurant bereit für die KI-Ära? Kostenlose Scanner für Sichtbarkeit, Nutzbarkeit und Sicherheit. Jetzt prüfen.",
     locale: "de_DE",

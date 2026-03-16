@@ -4,7 +4,7 @@ import { useState } from 'react'
 
 const faqItems = [
   {
-    question: 'Was bedeutet AI-Readiness für Restaurants?',
+    question: 'Was bedeutet AI-Readiness für die Gastronomie?',
     answer: 'AI-Readiness heißt: Dein Restaurant ist auf allen drei Ebenen für die KI-Ära vorbereitet: sichtbar für KI-Suchmaschinen wie ChatGPT, Gemini und Perplexity, nutzbar für KI-Agenten bei automatischen Reservierungen und sicher vor KI-Angriffen wie Fake-Bewertungen und Datenmissbrauch.',
   },
   {

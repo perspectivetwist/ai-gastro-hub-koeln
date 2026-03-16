@@ -10,7 +10,7 @@ export default function HeroSection() {
           className="mb-14 text-sm tracking-widest uppercase"
           style={{ color: "#FFFFFF" }}
         >
-          AI-Readiness für Restaurants
+          AI-Readiness für die Gastronomie
         </div>
 
         {/* Hook Headline */}
