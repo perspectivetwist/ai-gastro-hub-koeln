@@ -12,14 +12,18 @@ export default function SolutionSection() {
         für Restaurants.
       </h2>
 
-      <p
-        className="text-xl mb-16 max-w-3xl leading-relaxed"
-        style={{ color: "#cccccc" }}
-      >
-        Nur sichtbar zu sein reicht nicht. Dein Restaurant muss für KI-Agenten
-        auch buchbar und sicher sein. AI Shift Drift ist das erste Ökosystem das
-        alle drei Dimensionen zusammendenkt: Sichtbarkeit. Nutzbarkeit. Sicherheit.
-      </p>
+      <div className="text-xl mb-16 max-w-3xl leading-relaxed space-y-4" style={{ color: "#cccccc" }}>
+        <p>
+          Nur <span className="font-semibold text-white">sichtbar</span> zu sein reicht nicht.
+          Dein Restaurant muss für KI-Agenten auch <span className="font-semibold text-white">buchbar</span> und <span className="font-semibold text-white">sicher</span> sein.
+        </p>
+        <p>
+          AI Shift Drift ist das erste Ökosystem das alle drei Dimensionen zusammendenkt:
+        </p>
+        <p className="font-semibold text-white">
+          Sichtbarkeit. Nutzbarkeit. Sicherheit.
+        </p>
+      </div>
 
       {/* House Image + Labels */}
       <div className="flex flex-col md:flex-row items-center gap-12 w-full max-w-[800px] mx-auto">
