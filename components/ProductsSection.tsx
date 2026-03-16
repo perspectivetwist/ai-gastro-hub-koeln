@@ -11,7 +11,7 @@ export default function ProductsSection() {
       </h2>
 
       <div className="flex flex-col gap-16">
-        {/* WAKE — Sichtbarkeit */}
+        {/* WAKE */}
         <div>
           <div className="flex items-center gap-3 mb-6">
             <div className="text-base tracking-widest uppercase font-bold gradient-wake">
@@ -88,7 +88,7 @@ export default function ProductsSection() {
           </div>
         </div>
 
-        {/* SLIPSTREAM — Nutzbarkeit */}
+        {/* SLIPSTREAM */}
         <div>
           <div className="flex items-center gap-3 mb-6">
             <div
@@ -132,7 +132,7 @@ export default function ProductsSection() {
           </a>
         </div>
 
-        {/* QUANTUM — Sicherheit */}
+        {/* QUANTUM */}
         <div>
           <div className="flex items-center gap-3 mb-6">
             <div

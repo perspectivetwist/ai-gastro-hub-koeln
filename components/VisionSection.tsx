@@ -14,7 +14,7 @@ export default function VisionSection() {
       >
         In 24 Monaten empfehlen KI-Agenten Restaurants, buchen Tische und
         bewerten Erlebnisse. Wer heute handelt, bekommt die Gäste von morgen.
-        Wer wartet, verliert sie — an Restaurants, die KI verstanden haben.
+        Wer wartet, verliert sie an Restaurants, die KI verstanden haben.
       </p>
       <div className="mt-10">
         <a

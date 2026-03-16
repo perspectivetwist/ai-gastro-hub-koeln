@@ -5,20 +5,20 @@ const problems: { icon: LucideIcon; title: string; text: string; color: string; 
   {
     icon: EyeOff,
     title: "Nicht sichtbar für KI.",
-    text: "\"Bestes italienisches Restaurant in München\" — ChatGPT und Gemini antworten sofort. Wenn dein Restaurant nicht in der Antwort ist, existierst du für diese Gäste nicht.",
+    text: "\"Bestes italienisches Restaurant in München\": ChatGPT und Gemini antworten sofort. Wenn dein Restaurant nicht in der Antwort ist, existierst du für diese Gäste nicht.",
     color: "#00FFE0",
     gradient: "linear-gradient(180deg, #00AAFF, #00FF88)",
   },
   {
     icon: Ban,
     title: "Nicht nutzbar für KI-Agenten.",
-    text: "Nutzer sagen: \"Reservier mir einen Tisch für Freitag, italienisch, Innenstadt.\" Der KI-Agent bucht — aber nur bei Restaurants, die digital buchbar und agent-ready sind.",
+    text: "Nutzer sagen: \"Reservier mir einen Tisch für Freitag, italienisch, Innenstadt.\" Der KI-Agent bucht. Aber nur bei Restaurants, die digital buchbar und agent-ready sind.",
     color: "#FFE600",
   },
   {
     icon: ShieldAlert,
     title: "Nicht sicher vor KI-Angriffen.",
-    text: "KI kann massenhaft gefälschte Bewertungen erzeugen. Dein guter Ruf steht auf dem Spiel — und die meisten Gastronomen merken es zu spät.",
+    text: "KI kann massenhaft gefälschte Bewertungen erzeugen. Dein guter Ruf steht auf dem Spiel. Die meisten Gastronomen merken es zu spät.",
     color: "#FF1744",
   },
 ];

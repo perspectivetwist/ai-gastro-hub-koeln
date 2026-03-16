@@ -26,7 +26,7 @@ export default function HeroSection() {
         >
           ChatGPT, Perplexity und Gemini empfehlen Restaurants, buchen Tische
           und bewerten Erlebnisse. Wer nicht sichtbar, nutzbar und sicher ist,
-          verliert Gäste — ohne es zu merken.
+          verliert Gäste. Ohne es zu merken.
         </p>
 
         {/* CTA */}

@@ -5,7 +5,7 @@ import { useState } from 'react'
 const faqItems = [
   {
     question: 'Was bedeutet AI-Readiness für Restaurants?',
-    answer: 'AI-Readiness heißt: Dein Restaurant ist auf allen drei Ebenen für die KI-Ära vorbereitet — sichtbar für KI-Suchmaschinen (ChatGPT, Gemini, Perplexity), nutzbar für KI-Agenten (automatische Reservierungen) und sicher vor KI-Angriffen (Fake-Bewertungen, Datenmissbrauch).',
+    answer: 'AI-Readiness heißt: Dein Restaurant ist auf allen drei Ebenen für die KI-Ära vorbereitet: sichtbar für KI-Suchmaschinen wie ChatGPT, Gemini und Perplexity, nutzbar für KI-Agenten bei automatischen Reservierungen und sicher vor KI-Angriffen wie Fake-Bewertungen und Datenmissbrauch.',
   },
   {
     question: 'Welche Scanner gibt es?',
@@ -13,11 +13,11 @@ const faqItems = [
   },
   {
     question: 'Warum reicht Sichtbarkeit allein nicht?',
-    answer: 'Ein Restaurant kann perfekt für ChatGPT optimiert sein — aber wenn ein KI-Agent keinen Tisch buchen kann, bringt die Sichtbarkeit nichts. Und wenn Fake-Bewertungen den Ruf zerstören, hilft auch die beste Buchbarkeit nicht. Alle drei Säulen — sichtbar, nutzbar, sicher — müssen zusammen stimmen.',
+    answer: 'Ein Restaurant kann perfekt für ChatGPT optimiert sein. Aber wenn ein KI-Agent keinen Tisch buchen kann, bringt die Sichtbarkeit nichts. Und wenn Fake-Bewertungen den Ruf zerstören, hilft auch die beste Buchbarkeit nicht. Alle drei Säulen müssen zusammen stimmen: sichtbar, nutzbar, sicher.',
   },
   {
     question: 'Was ist der Unterschied zwischen AEO und GEO?',
-    answer: 'AEO (Answer Engine Optimization) prüft ob KI-Systeme deine Website lesen und zitieren können. GEO (Generative Engine Optimization) prüft deinen digitalen Ruf — Bewertungen, Erwähnungen, Brancheneinträge. Ein Restaurant braucht beides um für KI sichtbar zu sein.',
+    answer: 'AEO (Answer Engine Optimization) prüft ob KI-Systeme deine Website lesen und zitieren können. GEO (Generative Engine Optimization) prüft deinen digitalen Ruf: Bewertungen, Erwähnungen, Brancheneinträge. Ein Restaurant braucht beides um für KI sichtbar zu sein.',
   },
   {
     question: 'Was kostet das?',
@@ -32,7 +32,7 @@ const faqItems = [
     answer: 'Wir speichern keine Website-Inhalte. Der Scan läuft in Echtzeit und die Ergebnisse werden nur in deinem Browser angezeigt.',
   },
   {
-    question: 'Mein Restaurant hat viele Google-Bewertungen — reicht das nicht?',
+    question: 'Mein Restaurant hat viele Google-Bewertungen. Reicht das nicht?',
     answer: 'Google-Bewertungen sind ein Faktor, aber nicht alles. ChatGPT liest primär strukturierte Website-Inhalte. Ohne Schema Markup, FAQ-Seite und maschinenlesbaren Content bleibt dein Restaurant unsichtbar. Und Bewertungen allein machen dein Restaurant weder buchbar für KI-Agenten noch sicher vor Fake-Angriffen.',
   },
 ]

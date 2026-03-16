@@ -23,7 +23,7 @@ export default function ProblemSection() {
           <p className="text-xl leading-relaxed pl-4" style={{ color: "#cccccc" }}>
             <span className="font-semibold" style={{ color: "#ffffff" }}>Morgen fragen sie ChatGPT:</span>
             <br />
-            &quot;Reservier mir einen Tisch, italienisch, Innenstadt, Freitagabend.&quot; — und KI entscheidet, wer gebucht wird.
+            &quot;Reservier mir einen Tisch, italienisch, Innenstadt, Freitagabend.&quot; Und KI entscheidet, wer gebucht wird.
           </p>
         </div>
         <div className="flex gap-0 rounded-lg overflow-hidden">
@@ -31,7 +31,7 @@ export default function ProblemSection() {
           <p className="text-xl leading-relaxed pl-4" style={{ color: "#cccccc" }}>
             <span className="font-semibold" style={{ color: "#ffffff" }}>Sichtbar sein reicht nicht.</span>
             <br />
-            Dein Restaurant muss für KI auch nutzbar und sicher sein — sonst fällt es durch das Raster.
+            Dein Restaurant muss für KI auch nutzbar und sicher sein. Sonst fällt es durch das Raster.
           </p>
         </div>
       </div>
@@ -40,7 +40,7 @@ export default function ProblemSection() {
         {[
           {
             stat: "70%",
-            text: "der Restaurants sind für KI-Systeme unsichtbar — ChatGPT, Gemini und Perplexity kennen sie nicht.",
+            text: "der Restaurants sind für KI-Systeme unsichtbar. ChatGPT, Gemini und Perplexity kennen sie nicht.",
           },
           {
             stat: "3x",
