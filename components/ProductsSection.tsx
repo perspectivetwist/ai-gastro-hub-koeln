@@ -24,7 +24,7 @@ export default function ProductsSection() {
             {/* AEO Scanner */}
             <a
               href="https://aeo-gastro.vercel.app"
-              className="flex gap-0 rounded-lg overflow-hidden hover:opacity-90 transition-opacity"
+              className="flex gap-0 rounded-lg overflow-hidden transition-all duration-200 hover:scale-[1.02]"
               style={{ background: "rgba(0,0,0,0.4)" }}
             >
               <div
@@ -46,7 +46,7 @@ export default function ProductsSection() {
                   in Sekunden.
                 </div>
                 <span
-                  className="text-xs px-4 py-1.5 rounded-full border"
+                  className="inline-block mt-2 px-5 py-2 rounded-full text-xs font-semibold tracking-wide border transition-colors duration-200 hover:bg-white/10"
                   style={{ borderColor: "#00AAFF", color: "#00AAFF" }}
                 >
                   Jetzt prüfen
@@ -56,7 +56,7 @@ export default function ProductsSection() {
             {/* GEO Scanner */}
             <a
               href="https://geo-gastro.vercel.app"
-              className="flex gap-0 rounded-lg overflow-hidden hover:opacity-90 transition-opacity"
+              className="flex gap-0 rounded-lg overflow-hidden transition-all duration-200 hover:scale-[1.02]"
               style={{ background: "rgba(0,0,0,0.4)" }}
             >
               <div
@@ -78,7 +78,7 @@ export default function ProductsSection() {
                   Erwähnungen, Profil.
                 </div>
                 <span
-                  className="text-xs px-4 py-1.5 rounded-full border"
+                  className="inline-block mt-2 px-5 py-2 rounded-full text-xs font-semibold tracking-wide border transition-colors duration-200 hover:bg-white/10"
                   style={{ borderColor: "#00FF88", color: "#00FF88" }}
                 >
                   Jetzt prüfen
@@ -102,7 +102,7 @@ export default function ProductsSection() {
           </div>
           <a
             href="https://agentready-gastro.vercel.app"
-            className="flex gap-0 rounded-lg overflow-hidden hover:opacity-90 transition-opacity max-w-[calc(50%-0.5rem)]"
+            className="flex gap-0 rounded-lg overflow-hidden transition-all duration-200 hover:scale-[1.02] max-w-[calc(50%-0.5rem)]"
             style={{ background: "rgba(0,0,0,0.4)" }}
           >
             <div
@@ -123,7 +123,7 @@ export default function ProductsSection() {
                 Kann ein KI-Agent bei deinem Restaurant einen Tisch reservieren?
               </div>
               <span
-                className="text-xs px-4 py-1.5 rounded-full border"
+                className="inline-block mt-2 px-5 py-2 rounded-full text-xs font-semibold tracking-wide border transition-colors duration-200 hover:bg-white/10"
                 style={{ borderColor: "#FFE600", color: "#FFE600" }}
               >
                 Jetzt prüfen
@@ -146,7 +146,7 @@ export default function ProductsSection() {
           </div>
           <a
             href="https://aisecurity-gastro.vercel.app"
-            className="flex gap-0 rounded-lg overflow-hidden hover:opacity-90 transition-opacity max-w-[calc(50%-0.5rem)]"
+            className="flex gap-0 rounded-lg overflow-hidden transition-all duration-200 hover:scale-[1.02] max-w-[calc(50%-0.5rem)]"
             style={{ background: "rgba(0,0,0,0.4)" }}
           >
             <div
@@ -168,7 +168,7 @@ export default function ProductsSection() {
                 Fake-Bewertungen, Phishing, Datenmissbrauch.
               </div>
               <span
-                className="text-xs px-4 py-1.5 rounded-full border"
+                className="inline-block mt-2 px-5 py-2 rounded-full text-xs font-semibold tracking-wide border transition-colors duration-200 hover:bg-white/10"
                 style={{ borderColor: "#FF1744", color: "#FF1744" }}
               >
                 Sicherheit prüfen

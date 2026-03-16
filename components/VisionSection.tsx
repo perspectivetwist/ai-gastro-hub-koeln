@@ -17,8 +17,15 @@ export default function VisionSection() {
         Wer wartet, verliert sie — an Restaurants, die KI verstanden haben.
       </p>
       <div className="mt-10">
-        <a href="#products" className="inline-block rounded-full">
-          <span className="block px-10 py-3.5 rounded-full font-semibold text-sm gradient-accent-bg text-white">
+        <a
+          href="#products"
+          className="inline-block rounded-full transition-all duration-300 hover:scale-105 p-[1.5px] focus:outline-none"
+          style={{ background: "linear-gradient(135deg, #FFB432 0%, #FF3CAC 50%, #FF2D78 100%)" }}
+        >
+          <span
+            className="block px-10 py-3.5 rounded-full font-semibold text-sm tracking-wide text-white"
+            style={{ background: "#000008" }}
+          >
             Jetzt kostenlos prüfen
           </span>
         </a>

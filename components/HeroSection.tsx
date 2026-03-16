@@ -33,10 +33,12 @@ export default function HeroSection() {
         <div className="flex items-center justify-center">
           <a
             href="#products"
-            className="inline-block rounded-full"
+            className="inline-block rounded-full transition-all duration-300 hover:scale-105 p-[1.5px] focus:outline-none"
+            style={{ background: "linear-gradient(135deg, #FFB432 0%, #FF3CAC 50%, #FF2D78 100%)" }}
           >
             <span
-              className="block px-12 py-4 rounded-full font-semibold gradient-accent-bg text-white"
+              className="block px-12 py-4 rounded-full font-semibold text-base tracking-wide text-white"
+              style={{ background: "#000008" }}
             >
               Restaurant kostenlos scannen
             </span>
