@@ -1,12 +1,6 @@
 export default function TrustSection() {
   const ecosystem = [
     {
-      name: "AI-GASTRO-HUB",
-      desc: "AI-Readiness für die Gastronomie",
-      url: "https://ai-gastro-hub.vercel.app",
-      color: "#FF006E",
-    },
-    {
       name: "Wake | AEO",
       desc: "Wird dein Restaurant von ChatGPT&Co zitiert?",
       url: "https://aeo-gastro.vercel.app",
