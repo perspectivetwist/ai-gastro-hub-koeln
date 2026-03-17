@@ -7,6 +7,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
+  verification: { other: { 'msvalidate.01': '4238BAC83D0A84184DB5C8AEF5C3CE14' } },
   title: "AI-Readiness für die Gastronomie | AI Shift Drift",
   description:
     "Ist dein Restaurant bereit für die KI-Ära? Kostenlose Scanner für Sichtbarkeit, Nutzbarkeit und Sicherheit. Jetzt prüfen.",
