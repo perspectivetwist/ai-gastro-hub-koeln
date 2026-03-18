@@ -31,6 +31,31 @@ export default function RootLayout({
       <body className={`${inter.className} antialiased`}>
         <GoogleAnalytics />
         <JsonLdSchema />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Organization",
+              "name": "AI Shift Drift",
+              "alternateName": "ASD",
+              "url": "https://ai-gastro-hub.vercel.app",
+              "logo": "https://ai-gastro-hub.vercel.app/logo.png",
+              "description": "Kostenlose KI-Readiness-Scanner f\u00fcr deutsche Restaurants und KMUs. Pr\u00fcft ob KI-Systeme dein Unternehmen finden, empfehlen und ob es nutzbar f\u00fcr KI-Agenten ist.",
+              "foundingDate": "2026",
+              "foundingLocation": {
+                "@type": "Place",
+                "addressLocality": "Berlin",
+                "addressCountry": "DE"
+              },
+              "legalName": "Pachyon UG",
+              "sameAs": [
+                "https://github.com/perspectivetwist",
+                "https://www.crunchbase.com/organization/ai-shift-drift"
+              ]
+            })
+          }}
+        />
         <main style={{ position: "relative", zIndex: 1 }}>
           {children}
         </main>
