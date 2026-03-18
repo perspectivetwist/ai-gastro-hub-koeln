@@ -19,7 +19,7 @@ export default function NewsroomOverview() {
         <h1 className="text-3xl font-bold text-white">KI-Gastro-Newsroom</h1>
       </div>
       <p className="text-gray-400 mb-12 text-sm">
-        Was KI für dein Restaurant bedeutet — jeden Montag neu. Kein Tech-Jargon, nur was zählt.
+        Was KI für dein Restaurant bedeutet. Jeden Montag neu. Kein Tech-Jargon, nur was zählt.
       </p>
 
       {articles.length === 0 ? (
