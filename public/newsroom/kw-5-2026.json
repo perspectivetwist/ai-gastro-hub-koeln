@@ -1,0 +1,43 @@
+{
+  "slug": "kw-5-2026",
+  "kw": 5,
+  "year": 2026,
+  "date": "02. Februar 2026",
+  "headline": "ChatGPT bucht dein Restaurant: So empfiehlst du dich richtig",
+  "zahl_der_woche": {
+    "zahl": "70 Prozent",
+    "kontext": "So viele KI-Suchanfragen wird es 2026 geben. Wer nicht sichtbar ist, verliert Gäste direkt an die Konkurrenz."
+  },
+  "news": [
+    {
+      "titel": "OpenTable & TheFork kooperieren mit ChatGPT",
+      "was_passiert": "Gäste können jetzt direkt im ChatGPT-Chat Restaurants entdecken und buchen. Die Reservierungsplattformen haben ihre Buchungsfunktion in OpenAI's Chatbot integriert. Das bedeutet: 800 Millionen ChatGPT-Nutzer finden dein Restaurant, ohne Google zu nutzen.",
+      "was_bedeutet_das": "Dein Restaurant muss konsistent beschrieben sein. Falsche oder fehlende Informationen bei OpenTable, TheFork oder Google führen dazu, dass dich ChatGPT nicht empfiehlt. Prüfe jetzt deine Profile dort und stelle sicher, dass Küche, Öffnungszeiten, Preisspanne und Besonderheiten überall gleich sind."
+    },
+    {
+      "titel": "Google Maps Ask Maps liest deine Bewertungen als Daten",
+      "was_passiert": "Google hat ein Update für Maps gelauncht: KI-gestützte Ask Maps beantworten Fragen wie \"Wo essen Familien mit Kleinkindern draußen?\" Die KI liest nicht die Sternewertung, sondern extrahiert konkrete Details aus Bewertungstexten: \"freundlich\", \"Terrasse\", \"Hochstühle\", \"glutenfrei\".",
+      "was_bedeutet_das": "Detaillierte Bewertungen sind jetzt wichtiger als die Gesamtnote. Ein 4,6er mit neuen, ausführlichen Bewertungen schlägt einen 4,9er mit alten Bewertungen. Ermuntere deine Gäste, konkret zu beschreiben, was ihnen gefallen hat. Antworte schnell auf jede Bewertung: Das zeigt der KI, dass du aktiv bist."
+    },
+    {
+      "titel": "Google und Facebook automatisieren Fake-Review-Erkennung",
+      "was_passiert": "Google hat 2025 über 115 Millionen gefälschte Bewertungen entfernt. KI-Systeme analysieren jetzt Textmuster, Nutzerverhalten und sogar Bildmanipulation. Verdächtige Spitzen oder identische Formulierungen werden automatisch erkannt. Konsequenz: Gekaufte Fake-Bewertungen funktionieren kaum noch.",
+      "was_bedeutet_das": "Setze nicht auf Quantität, sondern auf echte Gästenerfahrungen. Echte Bewertungen bringen langfristig mehr Sichtbarkeit als manipulierte. Falls Konkurrenten dir negative Fake-Reviews schreiben: Screenshot machen und direkt melden. Google entfernt sie zuverlässiger als früher."
+    }
+  ],
+  "handlungsempfehlung": "Aktualisiere deine Restaurant-Profile auf OpenTable, TheFork und Google Maps. Überprüfe: Stimmen Küche, Öffnungszeiten und Preise überall? Ergänze deine Google-Beschreibung um drei konkrete Details (z.B. \"Freundliche Bedienung\", \"Großer Biergarten\", \"Glutenfrei-Optionen\"). Das dauert 20 Minuten.",
+  "seo": {
+    "title": "ChatGPT findet dein Restaurant 2026 | KI-Gastro-Newsroom KW 5",
+    "metaDescription": "KW 5 2026: ChatGPT bucht jetzt Restaurants. Erfahre, wie dein Restaurant in KI-Suche sichtbar wird.",
+    "keywords": "KI Gastronomie Deutschland 2026, ChatGPT Restaurant Reservierung, Google Maps KI Bewertungen, OpenTable TheFork ChatGPT",
+    "canonicalUrl": "https://ai-gastro-hub.vercel.app/newsroom/kw-5-2026",
+    "datePublished": "2026-02-02T10:00:00.000Z",
+    "internalLinks": [
+      {
+        "url": "https://aeo-gastro.vercel.app",
+        "text": "Prüfe kostenlos ob ChatGPT dein Restaurant findet"
+      }
+    ]
+  },
+  "generatedAt": "2026-03-18T18:54:17.665Z"
+}

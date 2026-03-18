@@ -1,0 +1,43 @@
+{
+  "slug": "kw-9-2026",
+  "kw": 9,
+  "year": 2026,
+  "date": "02. März 2026",
+  "headline": "TheFork bringt Reservierungen in ChatGPT: Dein Restaurant wird anders gefunden",
+  "zahl_der_woche": {
+    "zahl": "70%",
+    "kontext": "So viel Prozent aller Restaurant-Suchanfragen sollen 2026 über KI wie ChatGPT und Perplexity laufen. Wenn dein Google-Profil nicht optimal ist, wirst du übersehen."
+  },
+  "news": [
+    {
+      "titel": "TheFork integriert Reservierungen in ChatGPT",
+      "was_passiert": "Die Reservierungsplattform TheFork ist offizieller Launch-Partner von OpenAI. Gäste können jetzt direkt in ChatGPT Restaurants entdecken und buchen, ohne die App zu verlassen. Gleichzeitig arbeitet OpenTable an der gleichen Integration.",
+      "was_bedeutet_das": "Du brauchst jetzt eine saubere Präsenz in OpenTable, TheFork oder ähnlichen Systemen. Wenn dein Restaurant dort nicht auftaucht oder fehlerhaft beschrieben ist, buchen Gäste schon in ChatGPT bei der Konkurrenz. Kontrolliere diese Woche dein Profil."
+    },
+    {
+      "titel": "Neue KI-Sichtbarkeit braucht konsistente Daten überall",
+      "was_passiert": "KI-Systeme wie ChatGPT kombinieren Infos von deiner Website, Google-Profil, Social Media, Bewertungen und Branchenportalen. Wenn Öffnungszeiten, Adresse oder Küchenstil sich widersprechen, sortiert dich die KI aus. Das deutsche Startup Raitify automatisiert jetzt auch das Bewertungsmanagement mit KI.",
+      "was_bedeutet_das": "Überprüfe diese Woche, ob deine Daten überall gleich sind: Google My Business, Website, Facebook, Instagram, TheFork, TripAdvisor. Falsche oder veraltete Infos kosten dir Buchungen. Nutze die Zeit, um das zu korrigieren. Das dauert max. 90 Minuten."
+    },
+    {
+      "titel": "Yumzi: KI-Tool für digitale und physische Speisekarten",
+      "was_passiert": "Das österreichische Startup Yumzi Gastro GPT lässt dich in Sekunden digitale und physische Speisekarten erstellen. Du beschreibst einfach, was du möchtest, die KI generiert das ganze Menü. Nutzer berichten von besseren Google-Bewertungen und höheren Durchschnittsumsätzen.",
+      "was_bedeutet_das": "Wenn deine Speisekarte veraltet ist oder zu lang, kostet dich das Geld. KI-Tools wie Yumzi kosten unter 100 Euro im Monat. Diese Woche: Prüfe, ob deine Karte noch passt. Falls nicht, teste Yumzi kostenlos oder nutze ChatGPT, um Gerichte zu streichen und deine Margen zu optimieren."
+    }
+  ],
+  "handlungsempfehlung": "Prüfe heute deine Sichtbarkeit bei OpenTable/TheFork. Kontrolliere: Sind deine Öffnungszeiten, Adresse und Küchenbeschreibung überall identisch? Falls nicht, korrigiere. Dann teste ChatGPT oder Perplexity: Schreib eine Frage wie 'Gutes Restaurant für Geschäftsessen in [deine Stadt]' und schau, ob du findbar bist. Die 20 Minuten Arbeit jetzt sparen dir monatliche Buchungen.",
+  "seo": {
+    "title": "ChatGPT findet dein Restaurant: KI-Sichtbarkeit prüfen | KW 9 2026",
+    "metaDescription": "KW 9: TheFork in ChatGPT, neue KI-Sichtbarkeit. So wirst du in ChatGPT, Perplexity & Gemini gefunden. Kostenlos checken, wie dein Restaurant bei KI-Suche rankt.",
+    "keywords": "ChatGPT Restaurant, KI-Suche Gastronomie, AIO Optimization Restaurant, Sichtbarkeit in ChatGPT",
+    "canonicalUrl": "https://ai-gastro-hub.vercel.app/newsroom/kw-9-2026",
+    "datePublished": "2026-03-02T10:00:00.000Z",
+    "internalLinks": [
+      {
+        "url": "https://aeo-gastro.vercel.app",
+        "text": "Pruefe kostenlos ob ChatGPT dein Restaurant findet"
+      }
+    ]
+  },
+  "generatedAt": "2026-03-18T18:59:50.427Z"
+}

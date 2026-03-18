@@ -1,0 +1,43 @@
+{
+  "slug": "kw-8-2026",
+  "kw": 8,
+  "year": 2026,
+  "date": "23. Februar 2026",
+  "headline": "TheFork in ChatGPT: Gäste buchen jetzt direkt im KI-Chat",
+  "zahl_der_woche": {
+    "zahl": "73 %",
+    "kontext": "Drei von vier Restaurantbesuchern in Deutschland suchen online nach Lokalen. Wer dort nicht sichtbar ist, verliert Gäste."
+  },
+  "news": [
+    {
+      "titel": "TheFork startet ChatGPT-Buchungen",
+      "was_passiert": "<cite index=\"31-13,31-14\">TheFork hat seine Buchungsfunktion in ChatGPT integriert. Gäste können ab sofort über einfache Dialoge mit der KI Restaurants entdecken und direkt reservieren.</cite> Das heißt: Ein Gast sagt ChatGPT \"Ich suche ein ruhiges Restaurant heute Abend\" und bucht direkt im Chat.",
+      "was_bedeutet_das": "Dein Restaurant wird nur empfohlen, wenn dein <cite index=\"31-1\">TheFork-Profil vollständig ausgefüllt ist, inklusive Küchenstil, Öffnungszeiten und Preiskategorie</cite>. Unvollständige Daten bedeuten: keine Empfehlung, keine Buchungen. Diese Woche: Profil checken und komplettieren (30 Min, kostenlos)."
+    },
+    {
+      "titel": "KI findet Restaurants anders als Google",
+      "was_passiert": "<cite index=\"12-2,12-5,12-6,12-7\">KI-Systeme kombinieren Informationen aus vielen Quellen: deiner Website, deinem Google-Unternehmensprofil, Social Media, Google-Bewertungen und Tripadvisor. Wenn diese Informationen klar und konsistent sind, entsteht ein stimmiges Gesamtbild. Wenn sie sich widersprechen oder lückenhaft sind, wird dein Standort schnell aussortiert.</cite>",
+      "was_bedeutet_das": "Google brauchte dich nur auf Platz 1 zu sehen. ChatGPT & Co. brauchen dich in den Daten der richtigen Quellen. <cite index=\"12-37,12-38\">Wenn Öffnungszeiten, Adresse, Telefonnummer nicht überall stimmen oder deine Küche einmal als italienisch, einmal als mediterran beschrieben wird</cite>, sortiert dich KI aus. Deine Aufgabe: Konsistenz über alle Plattformen herstellen."
+    },
+    {
+      "titel": "KI-Tools für Speisekarten ab 50 Euro/Monat",
+      "was_passiert": "<cite index=\"26-6,26-7\">Einfache Cloud-basierte SaaS-Lösungen für spezifische Aufgaben wie ein einfacher Chatbot oder ein Analyse-Tool können bereits für unter hundert bis einige hundert Euro pro Monat erhältlich sein.</cite> Tools wie Tastewise oder ChatGPT helfen bei Menüplanung, Preiskalkulation und Upselling.",
+      "was_bedeutet_das": "KI für Restaurants ist nicht teuer. Statt teure Agenturen zu bezahlen: ChatGPT für Menü-Texte, Canva Magic Studio für visuelle Posts, Tools wie Notion AI für Schichtübergaben. Alles unter 100 Euro kombiniert. Kostenlos starten: ChatGPT Free oder Google Gemini (sofort einsetzbar)."
+    }
+  ],
+  "handlungsempfehlung": "Melde dein Restaurant diese Woche bei TheFork an oder aktualisiere dein Profil. Überprüfe danach Google, Tripadvisor, deine Website: Stimmen Name, Adresse, Telefon, Küchenstil überall überein? Wenn nein: heute korrigieren. Das kostet 30 Minuten, verhindert aber, dass ChatGPT dich übersieht.",
+  "seo": {
+    "title": "TheFork in ChatGPT: KI bucht jetzt deine Tische | KI-Gastro KW 8",
+    "metaDescription": "KW 8: TheFork integriert ChatGPT. 73% suchen online. Dein Profil muss sichtbar sein – jetzt checken.",
+    "keywords": "TheFork ChatGPT, KI Reservierungen Restaurant 2026, ChatGPT Restaurant finden, KI Sichtbarkeit Gastro",
+    "canonicalUrl": "https://ai-gastro-hub.vercel.app/newsroom/kw-8-2026",
+    "datePublished": "2026-02-23T10:00:00.000Z",
+    "internalLinks": [
+      {
+        "url": "https://aeo-gastro.vercel.app",
+        "text": "Prüfe kostenlos: Findet ChatGPT dein Restaurant?"
+      }
+    ]
+  },
+  "generatedAt": "2026-03-18T19:10:07.962Z"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "kw-7-2026",
+  "kw": 7,
+  "year": 2026,
+  "date": "16. Februar 2026",
+  "headline": "ChatGPT findet dein Restaurant jetzt selbst: Was dein Betrieb diese Woche tun muss",
+  "zahl_der_woche": {
+    "zahl": "70%",
+    "kontext": "So viele Nutzer-Anfragen sollen 2026 über KI-gestützte dialogbasierte Suchanfragen laufen statt Google-Klicks. Dein Restaurant muss dort sichtbar sein, sonst verlierst du Reservierungen an Konkurrenten."
+  },
+  "news": [
+    {
+      "titel": "TheFork integriert Reservierungen direkt in ChatGPT",
+      "was_passiert": "Die Reservierungsplattform TheFork ist offizieller Launch-Partner von OpenAI. Gäste können jetzt über ChatGPT nach Restaurants suchen und direkt buchbar machen – ohne die App zu verlassen. Die Integration ist live und wird massiv genutzt.",
+      "was_bedeutet_das": "Wenn du nicht bei TheFork bist oder deine Infos dort falsch/unvollständig sind, wirst du von Gästen nicht gefunden. Überprüfe diese Woche dein Profil: Öffnungszeiten, Kontakt, Fotos. Bei falschen Angaben verlierst du Buchungen an besser gepflegte Konkurrenten."
+    },
+    {
+      "titel": "Restaurantbesuch wird zum Erlebnis-Event – nicht zur Routine",
+      "was_passiert": "Gäste besuchen Restaurants 2026 deutlich seltener, dafür gezielter. Sie budgetieren für besondere Anlässe wie Geburtstage und Jahrestage – nicht für Freitagabend-Casual. Last-Minute-Buchungen boomen, ebenso Besuche am späten Nachmittag (16-17 Uhr).",
+      "was_bedeutet_das": "Deine Strategie muss sich anpassen. Biete flexible Last-Minute-Tische an und bewirb Happy Hour oder Spezial-Angebote gezielt. Das ist kein Abverkauf, sondern Mehrwert. Gäste, die erleben, dass dein Restaurant Flexibilität zeigt, buchen später wieder."
+    },
+    {
+      "titel": "Restaurant NOI gewinnt Gründerpreis: KI für Dienstpläne, nicht für Design",
+      "was_passiert": "Das Kölner Restaurant NOI wurde mit dem Deutschen Gastro-Gründerpreis 2026 ausgezeichnet. Sein Erfolgsgeheimnis: datengesteuerte Verwaltung mit KI. Dienstplanung, Einkauf und Tischbelegung laufen automatisiert. Der Betrieb nutzt digitale Werkzeuge intelligent – nicht für Show, sondern für Echo-Zeit in der Küche.",
+      "was_bedeutet_das": "Das ist keine Zukunftsvision mehr: Kleine Betriebe können 2-3 Arbeitsstunden pro Woche sparen, nur wenn sie Dienstplanung und Menükalkulation automatisieren. Diese Zeitersparnis ermöglicht mehr persönliche Gastfreundschaft. Starte diese Woche damit: Welche wiederkehrende Aufgabe kostet dich regelmäßig Zeit? Dort setzt KI an."
+    }
+  ],
+  "handlungsempfehlung": "Reservierungsplattformen checken: Sind alle Infos (Öffnungszeiten, Gericht-Fotos, Kontakt) vollständig und aktuell? Das dauert 20 Min, verhindert aber verlorene Buchungen. Falls du bei TheFork bist: Profil kontrollieren und aktualisieren – ChatGPT nutzt diese Daten jetzt für deine Sichtbarkeit.",
+  "seo": {
+    "title": "ChatGPT findet dein Restaurant: KI-Sichtbarkeit in KW 7 2026",
+    "metaDescription": "KW 7 2026: 70% aller Restaurantsuchen laufen über ChatGPT. Dein Restaurant muss dort sichtbar sein. Prüfe dein Profil jetzt.",
+    "keywords": "ChatGPT Restaurant finden, KI Sichtbarkeit Gastro, TheFork ChatGPT Integration, Restaurant sichtbar Reservierung",
+    "canonicalUrl": "https://ai-gastro-hub.vercel.app/newsroom/kw-7-2026",
+    "datePublished": "2026-02-16T10:00:00.000Z",
+    "internalLinks": [
+      {
+        "url": "https://aeo-gastro.vercel.app",
+        "text": "Prüfe kostenlos ob ChatGPT dein Restaurant findet"
+      }
+    ]
+  },
+  "generatedAt": "2026-03-18T18:56:58.624Z"
+}

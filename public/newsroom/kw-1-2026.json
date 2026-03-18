@@ -1,0 +1,43 @@
+{
+  "slug": "kw-1-2026",
+  "kw": 1,
+  "year": 2026,
+  "date": "05. Januar 2026",
+  "headline": "KI-Agenten buchen jetzt für dich: Restaurantbesitzer müssen ihre Daten sortieren",
+  "zahl_der_woche": {
+    "zahl": "70%",
+    "kontext": "So viel der Suchanfragen laufen 2026 über KI-gestützte Dialoge. Wer dort nicht sichtbar ist, verliert Gäste."
+  },
+  "news": [
+    {
+      "titel": "Gäste suchen dich über ChatGPT und Perplexity – nicht mehr nur über Google",
+      "was_passiert": "Deutsche Nutzer starten Restaurantsuche zunehmend in KI-Chatbots statt Suchmaschinen. OpenAI hat DoorDash und Uber Eats in ChatGPT integriert. Gäste können Reservierungen und Bestellungen direkt im Chat abschließen. Das verändert, wie Restaurants gefunden werden.",
+      "was_bedeutet_das": "Dein Restaurant muss vollständige Daten haben: genaue Öffnungszeiten, Speisekarte, Bewertungen, Reservierungssystem. Unvollständige Infos oder veraltete Angaben bedeuten: KI-Systeme ignorieren dich. Tipp: Prüfe diese Woche, ob all deine Daten in Google My Business und OpenTable konsistent sind."
+    },
+    {
+      "titel": "KI-Agenten treffen ab 2026 selbstständig Entscheidungen für Gäste",
+      "was_passiert": "Neue KI-Generationen können Buchungen und Bezahlungen mit nur einer finalen Freigabe durch den Gast vorbereiten. Das ist ein Paradigmenwechsel: Nicht der Mensch klickt sich durch, sondern die KI trifft Vorschläge. Große Tech- und Zahlungsanbieter bereiten sich auf Launch vor.",
+      "was_bedeutet_das": "Für kleine Restaurants heißt das: Reservierungssysteme und Speisekarten müssen maschinell lesbar sein. Deine Preise, Verfügbarkeit und Menüs müssen strukturiert vorliegen. Wenn die KI dein Restaurant nicht klar einordnen kann, wird es nicht empfohlen. Notwendig: Ein modernes Reservierungssystem (z.B. TheFork, OpenTable oder aleno)."
+    },
+    {
+      "titel": "Mehrwertsteuer auf Speisen fällt ab sofort auf 7 Prozent – Gäste bezahlen weniger",
+      "was_passiert": "Seit dem 1. Januar 2026 zahlen Gäste 7% statt 19% Mehrwertsteuer auf Speisen. Getränke bleiben bei 19%. Viele Restaurants senken dadurch ihre Preise. Die Buchhaltung muss Speisen und Getränke korrekt trennen.",
+      "was_bedeutet_das": "Die Entlastung wirkt: Restaurants berichten von mehr Besuchern. Aber Vorsicht bei Pauschalangeboten (Buffet, Menüs mit Getränk): Diese müssen prozentual aufgeteilt werden. Dein Kassensystem muss die zwei verschiedenen Steuersätze korrekt abbilden. Checke diese Woche mit deinem Kassierer, ob die Einstellung stimmt."
+    }
+  ],
+  "handlungsempfehlung": "Nimm dir 20 Minuten Zeit: Öffne Google My Business, OpenTable oder dein Reservierungssystem. Prüfe: Stimmen Öffnungszeiten, Adresse, Telefonnummer? Ist die Speisekarte aktuell? Sind Bilder vorhanden? Diese Daten sind ab sofort deine Sichtbarkeit in KI-Systemen.",
+  "seo": {
+    "title": "KI-Agenten buchen für Gäste | KI-Gastro-Newsroom KW 1",
+    "metaDescription": "KW 1 2026: ChatGPT findet dein Restaurant nur mit vollständigen Daten. Mehrwertsteuer sinkt auf 7% auf Speisen. Praxistipps für kleine Restaurants.",
+    "keywords": "KI Gastronomie Deutschland 2026, ChatGPT Restaurant finden, KI-Agenten Buchung, Mehrwertsteuer Gastronomie",
+    "canonicalUrl": "https://ai-gastro-hub.vercel.app/newsroom/kw-1-2026",
+    "datePublished": "2026-01-05T10:00:00.000Z",
+    "internalLinks": [
+      {
+        "url": "https://aeo-gastro.vercel.app",
+        "text": "Pruefe kostenlos ob ChatGPT dein Restaurant findet"
+      }
+    ]
+  },
+  "generatedAt": "2026-03-18T18:49:26.815Z"
+}

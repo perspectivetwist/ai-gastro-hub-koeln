@@ -1,0 +1,43 @@
+{
+  "slug": "kw-10-2026",
+  "kw": 10,
+  "year": 2026,
+  "date": "09. März 2026",
+  "headline": "ChatGPT macht dein Restaurant sichtbar: Gäste entdecken dich jetzt über KI-Suche",
+  "zahl_der_woche": {
+    "zahl": "70 Prozent",
+    "kontext": "So viele Restaurantsuchen laufen 2026 über dialogbasierte KI-Fragen statt klassische Google-Suche. Wer dort nicht auftaucht, verliert Gäste."
+  },
+  "news": [
+    {
+      "titel": "TheFork baut Reservierungen direkt in ChatGPT ein",
+      "was_passiert": "Die Plattform TheFork hat ihre Buchungsfunktion in ChatGPT integriert. Gäste können jetzt im Chat ein Restaurant suchen und direkt reservieren ohne die Plattform zu verlassen. Das erste Mal können Nutzer ein Lokal über ein natürliches Gespräch mit der KI entdecken.",
+      "was_bedeutet_das": "Dein Restaurant ist nur sichtbar, wenn du auf TheFork oder ähnlichen Plattformen ordnungsgemäß eingetragen bist und die Daten korrekt sind. Ohne Präsenz dort landest du nicht in den Antworten, die ChatGPT gibt. Überprüfe diese Woche dein Profil."
+    },
+    {
+      "titel": "Kölner Restaurant NOI gewinnt mit KI-gestütztem Betrieb",
+      "was_passiert": "Das Restaurant NOI aus Köln erhielt den Deutschen Gastro-Gründerpreis 2026. Der Grund: Es verbindet italienische Küche mit datengestützter Verwaltung. KI steuert dort Personalplanung, Einkauf und Tischbelegung vollautomatisch. Das kleine Restaurant (45 qm) erreicht 70 Euro Umsatz pro Gast bei minimaler Verschwendung.",
+      "was_bedeutet_das": "Das zeigt: KI ist nicht nur für große Ketten relevant. Kleine inhabergeführte Restaurants können damit Dienstpläne in Minuten aufstellen, Menüs kalkulieren und TripAdvisor-Bewertungen automatisch beantworten statt per Hand. Der Preis beweist: Das ist bereits gelebte Realität."
+    },
+    {
+      "titel": "Deutsche bevorzugen ChatGPT und Perplexity zum Restaurantsuchen",
+      "was_passiert": "Eine Studie von OpenTable zeigt: Deutsche planen 2026 gezielt, KI-Tools wie ChatGPT oder Perplexity zu nutzen um Restaurants zu entdecken. Das ändert den kompletten Suchweg: Nicht Google Maps, sondern der Chatbot wird zur ersten Anlaufstelle.",
+      "was_bedeutet_das": "Der klassische SEO-Weg über Google wird schwächer. Wichtig wird: vollständige Daten in Gastro-Apps, korrekt gepflegte Profile und konkrete, detaillierte Bewertungen. Diese helfen der KI, dein Restaurant empfehlen zu können. Fake-Reviews schaden jetzt deutlich mehr, weil die KI Qualität aktiv bewertet."
+    }
+  ],
+  "handlungsempfehlung": "Überprüfe diese Woche deine Präsenz auf OpenTable, TheFork und Google Business. Alle Daten aktuell? Öffnungszeiten korrekt? Speisekarte hochgeladen? Dann fordere aktiv Gäste-Bewertungen ein. Detaillierte, konkrete Bewertungen helfen der KI, dein Restaurant zu empfehlen. 20 Minuten reichen.",
+  "seo": {
+    "title": "ChatGPT findet dein Restaurant: Das musst du wissen | KW 10",
+    "metaDescription": "KW 10: 70% der Gäste suchen via ChatGPT statt Google. Wir zeigen, was du diese Woche tun musst, um sichtbar zu sein.",
+    "keywords": "KI Sichtbarkeit Restaurant, ChatGPT Reservierungen, KI-Suche Gastronomie, TheFork ChatGPT",
+    "canonicalUrl": "https://ai-gastro-hub.vercel.app/newsroom/kw-10-2026",
+    "datePublished": "2026-03-09T10:00:00.000Z",
+    "internalLinks": [
+      {
+        "url": "https://aeo-gastro.vercel.app",
+        "text": "Prüfe kostenlos ob ChatGPT dein Restaurant findet"
+      }
+    ]
+  },
+  "generatedAt": "2026-03-18T19:01:18.510Z"
+}

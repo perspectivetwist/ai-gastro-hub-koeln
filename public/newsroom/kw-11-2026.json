@@ -1,0 +1,43 @@
+{
+  "slug": "kw-11-2026",
+  "kw": 11,
+  "year": 2026,
+  "date": "16. März 2026",
+  "headline": "KI findet dein Restaurant nur, wenn Google und TripAdvisor die gleiche Geschichte erzählen",
+  "zahl_der_woche": {
+    "zahl": "70 %",
+    "kontext": "So viele Restaurant-Suchanfragen gehen 2026 über KI-Dialoge statt Google-Listen. Wer nicht konsistent online beschrieben ist, wird übersehen."
+  },
+  "news": [
+    {
+      "titel": "KI-Suchergebnisse ersetzen Google-Listen: Sichtbarkeit neu definiert",
+      "was_passiert": "ChatGPT, Perplexity und Google KI zeigen nicht mehr zehn Optionen, sondern eine Empfehlung pro Frage. KI liest dazu Daten von deiner Website, Google-Profil, Social Media und Bewertungsplattformen parallel. Wenn diese Infos sich widersprechen (z.B. unterschiedliche Öffnungszeiten oder Küche als \"italienisch\" vs. \"mediterran\"), wird dein Restaurant schnell aussortiert.",
+      "was_bedeutet_das": "Du schaffst dich selbst aus KI-Empfehlungen raus, wenn deine Online-Daten nicht übereinstimmen. Checke diese Woche: Stimmen Öffnungszeiten, Adresse, Telefon und Küche-Beschreibung überall? Google-Profil, Website, Instagram, TripAdvisor müssen dieselbe Story erzählen."
+    },
+    {
+      "titel": "Köln: KI-gestütztes Restaurant gewinnt Deutschen Gastro-Gründerpreis",
+      "was_passiert": "Das Restaurant NOI nutzt KI für Dienstpläne, Menükalkulation und Tischbelegung. Auf 45 Quadratmetern erreicht das Team 70 Euro Umsatz pro Gast mit minimaler Verschwendung. Die Jury sah darin das Zukunftsmodell: Datengesteuerte Verwaltung plus echtes Handwerk.",
+      "was_bedeutet_das": "KI beim Restaurant-Management ist kein theoretisches Konzept mehr: Es gewinnt Preise. Wenn ein kleines Lokal damit skaliert, können auch deine 8-15 Mitarbeiter von KI-gestützten Dienstplänen und Einkaufsplanung profitieren. Die Profite kommen aus besserer Planung, nicht aus Rezepten."
+    },
+    {
+      "titel": "TheFork integriert ChatGPT: Gäste buchen direkt im KI-Chat",
+      "was_passiert": "TheFork (OpenTable's europäische Plattform) ist Launch-Partner von OpenAI. Gäste können jetzt über ChatGPT-Dialog ein Restaurant suchen und sofort dort buchen. Ähnliches kommt bei Uber Eats und DoorDash. KI-Agenten empfehlen nicht nur, sie buchen auch gleich.",
+      "was_bedeutet_das": "Über Reservierungsplattformen zu sein, reicht nicht mehr. Dein Restaurant muss im KI-Dialog konkret erwähnt werden können. Überprüfe diese Woche: Wie wird dein Betrieb auf TheFork beschrieben? Sind Bilder und Infos so klar, dass eine KI dich empfehlen würde?"
+    }
+  ],
+  "handlungsempfehlung": "Überprüfe deine Online-Präsenz: Google-Profil, Website, Instagram, TripAdvisor. Schreib alles auf, was dort unterschiedlich ist (Öffnungszeiten, Küche-Stil, Spezialisierung). Korrigiere diese Widersprüche in den nächsten 2-3 Tagen. Das sind deine 30 Minuten für bessere KI-Sichtbarkeit.",
+  "seo": {
+    "title": "KI-Restaurant-Sichtbarkeit KW 11 | KI-Gastro-Newsroom",
+    "metaDescription": "KW 11 2026: ChatGPT & Google KI empfehlen nur Restaurants mit klaren, konsistenten Online-Daten. Prüfe deine Infos.",
+    "keywords": "KI Sichtbarkeit Restaurant, ChatGPT Empfehlung, Google KI Suche, Restaurant Datenqualität, KI-Optimierung Gastro",
+    "canonicalUrl": "https://ai-gastro-hub.vercel.app/newsroom/kw-11-2026",
+    "datePublished": "2026-03-16T10:00:00.000Z",
+    "internalLinks": [
+      {
+        "url": "https://aeo-gastro.vercel.app",
+        "text": "Prüfe kostenlos: Findet ChatGPT dein Restaurant?"
+      }
+    ]
+  },
+  "generatedAt": "2026-03-18T19:02:47.164Z"
+}

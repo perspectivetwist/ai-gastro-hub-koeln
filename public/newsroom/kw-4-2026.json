@@ -1,0 +1,43 @@
+{
+  "slug": "kw-4-2026",
+  "kw": 4,
+  "year": 2026,
+  "date": "26. Januar 2026",
+  "headline": "ChatGPT findet dein Restaurant nicht: Das musst du diese Woche ändern",
+  "zahl_der_woche": {
+    "zahl": "70%",
+    "kontext": "<cite index=\"1-3\">KI-gestützte dialogbasierte Suchanfragen sollen bis 2026 70 Prozent der Nutzeranfragen abdecken</cite> – Restaurants ohne klare Online-Beschreibung verschwinden aus Empfehlungen."
+  },
+  "news": [
+    {
+      "titel": "The Fork bucht jetzt direkt in ChatGPT",
+      "was_passiert": "<cite index=\"18-7,18-8\">The Fork integriert ihr Angebot ab 2026 in ChatGPT. Mit The Fork for ChatGPT können Nutzer Restaurants direkt über eine Konversation entdecken und in Echtzeit buchen.</cite> Das ist kein isoliertes Feature, sondern ein Zeichen eines größeren Trends.",
+      "was_bedeutet_das": "Gäste suchen nicht mehr nach dir. KI empfiehlt dir direkt – oder eben nicht. <cite index=\"31-5\">Gäste vergleichen keine Listen mehr – sie verlassen sich auf KI-Vorschläge.</cite> Wer online nicht klar beschrieben ist, wird nicht empfohlen. Deine Online-Präsenz ist Deine neue Visitenkarte für Algorithmen."
+    },
+    {
+      "titel": "Das Sichtbarkeitsproblem: Viele Restaurant fehlen ganz",
+      "was_passiert": "<cite index=\"31-22,31-23\">Aktuelle Analysen zeigen: Nur ein sehr kleiner Teil lokaler Unternehmen taucht überhaupt in KI-Empfehlungen auf. Der Wettbewerb um diese Sichtbarkeit ist deutlich härter als bei klassischen Google-Rankings</cite>, aber auch deutlich lohnender.",
+      "was_bedeutet_das": "Du brauchst Klarheit. <cite index=\"32-6\">Wenn dein Restaurant auf der eigenen Website übersichtlich, präzise und wiederverwendbar beschrieben ist – mit klaren Textblöcken, FAQ-Formaten und strukturierten Daten – steigt die Chance, in einer KI-Antwort aufzutauchen.</cite> Aber auch: Bewertungen, Google My Business und konsistente Daten über alle Plattformen sind nicht optional."
+    },
+    {
+      "titel": "KI-Agenten können bald direkt bei dir buchen",
+      "was_passiert": "<cite index=\"26-1,26-2\">2026 können KI-Tools Aufgaben direkt ausführen. Wenn ein Nutzer fragt: \"Suche eine Agentur für SEO in der Schweiz\", liefert die KI nicht nur Links, sondern vergleicht Angebote basierend auf Bewertungen und Fallstudien.</cite> Das kommt auch für Reservierungen.",
+      "was_bedeutet_das": "Die Zeit der Links ist vorbei. Gäste geben einer KI Anweisung: \"Buche mir einen Tisch für 4 Personen, Italian, Nähe Innenstadt, heute 19 Uhr.\" Der KI-Agent bucht – oder findet dein Restaurant überhaupt nicht. Das bedeutet: Deine Reservierungsintegration muss narrensicher und aktuell sein. Auch deine Buchungsplattform-Angaben müssen überall identisch sein."
+    }
+  ],
+  "handlungsempfehlung": "Prüfe diese Woche in 20 Minuten: Frage ChatGPT, Google Gemini oder Perplexity nach Restaurants in deiner Stadt mit deinen Stichworten (z.B. \"modernes italienisches Restaurant Stadtmitte\"). Taucht dein Restaurant auf? Wenn nicht: Überprüfe dein Google My Business und deine Website. Beide müssen identische Infos enthalten – Küche, Öffnungszeiten, Besonderheiten. Das ist deine Basis für KI-Sichtbarkeit.",
+  "seo": {
+    "title": "ChatGPT findet dein Restaurant nicht – Das musst du ändern",
+    "metaDescription": "KW 4: 70% Suchanfragen laufen über KI. Dein Restaurant ist nicht sichtbar? Hier sind die 3 kritischen Punkte.",
+    "keywords": "KI Restaurantsuche, ChatGPT Restaurant finden, The Fork ChatGPT Integration, KI-Sichtbarkeit Gastronomie",
+    "canonicalUrl": "https://ai-gastro-hub.vercel.app/newsroom/kw-4-2026",
+    "datePublished": "2026-01-26T10:00:00.000Z",
+    "internalLinks": [
+      {
+        "url": "https://aeo-gastro.vercel.app",
+        "text": "Prüfe kostenlos ob ChatGPT dein Restaurant findet"
+      }
+    ]
+  },
+  "generatedAt": "2026-03-18T18:52:44.881Z"
+}

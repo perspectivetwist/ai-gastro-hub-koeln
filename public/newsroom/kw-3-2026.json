@@ -1,0 +1,43 @@
+{
+  "slug": "kw-3-2026",
+  "kw": 3,
+  "year": 2026,
+  "date": "19. Januar 2026",
+  "headline": "ChatGPT findet dein Restaurant: Warum deine Infos ab jetzt richtig wichtig sind",
+  "zahl_der_woche": {
+    "zahl": "70 Prozent",
+    "kontext": "KI-gestützte Suchanfragen sollen 70 Prozent aller Restaurantsuchen abdecken. Wer nicht sichtbar ist, verliert Gäste."
+  },
+  "news": [
+    {
+      "titel": "KI-Agenten buchen jetzt automatisch: Die nächste Welle kommt 2026",
+      "was_passiert": "Ab sofort können KI-Agenten selbstständig Einkäufe, Buchungen und Zahlungen vorbereiten. Der Gast gibt nur noch die finale Freigabe. OpenAI, Google und große Zahlungsanbieter rollen diese Systeme gerade in Europa aus.",
+      "was_bedeutet_das": "Dein Restaurant muss für diese KI-Agenten optimiert sein. Das heißt: vollständige Menüs, genaue Zutatenlisten, klare Bewertungen und verlässliche Lieferinfos online. Eine Pizzeria wird von KI-Agenten bevorzugt, wenn sie alle diese Infos hat. Wer unvollständige Daten liefert, wird einfach übergangen."
+    },
+    {
+      "titel": "Mehrwertsteuer auf Speisen sinkt dauerhaft auf 7 Prozent: Dein Vorteil ab sofort",
+      "was_passiert": "Seit 1. Januar 2026 kostet die Mehrwertsteuer für Speisen nicht mehr 19, sondern 7 Prozent. Getränke bleiben bei 19 Prozent. Diese Regelung ist jetzt dauerhaft und nicht befristet.",
+      "was_bedeutet_das": "Du sparst automatisch auf jeder Speise. Manche Gastronomen geben das an die Gäste weiter und senken die Preise, andere verbessern damit ihre Margen. Der Druck ist jetzt weg: Die Preise sollten attraktiver wirken, ohne dass du selbst verhandeln musst. Wichtig: Getränke bleiben teuer, also achte auf die richtige Aufteilung bei Kombi-Angeboten."
+    },
+    {
+      "titel": "KI-Telefonservice: Anrufer buchen jetzt automatisch während du servierst",
+      "was_passiert": "Systeme wie Bookline + OpenTable verbinden telefonische Reservierungsanfragen automatisch mit deinem Kalender. Die KI versteht, was der Gast will, prüft Verfügbarkeit und aktualisiert dein System in Echtzeit. Roboterhaft klingt es nicht mehr.",
+      "was_bedeutet_das": "Du brauchst keine Kraft mehr fürs Telefon. Während deiner Stoßzeiten am Abend landen neue Reservierungen direkt im System. Dein Service-Team konzentriert sich auf die Gäste vor Ort. Das spart Personal und bedeutet: weniger verlorene Buchungen, weil niemand mehr in der Warteschleife hängt."
+    }
+  ],
+  "handlungsempfehlung": "Überprüfe diese Woche: Sind deine Menüs, Öffnungszeiten und Kontaktdaten bei Google, OpenTable und TheFork aktuell und identisch? KI-Agenten brauchen konsistente Daten. 30 Minuten Investment, großer Effekt.",
+  "seo": {
+    "title": "KI bucht automatisch: Was sich für Restaurants 2026 ändert | KW 3",
+    "metaDescription": "KW 3 2026: KI-Agenten buchen automatisch, Mehrwertsteuer sinkt, ChatGPT findet dein Restaurant besser. Was du wissen musst.",
+    "keywords": "KI Reservierungen 2026, KI Restaurant buchen, ChatGPT Restaurant finden, Mehrwertsteuer Gastronomie 2026",
+    "canonicalUrl": "https://ai-gastro-hub.vercel.app/newsroom/kw-3-2026",
+    "datePublished": "2026-01-19T10:00:00.000Z",
+    "internalLinks": [
+      {
+        "url": "https://aeo-gastro.vercel.app",
+        "text": "Prüfe kostenlos ob ChatGPT dein Restaurant findet"
+      }
+    ]
+  },
+  "generatedAt": "2026-03-18T18:51:20.055Z"
+}

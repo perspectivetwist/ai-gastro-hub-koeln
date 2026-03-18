@@ -1,0 +1,47 @@
+{
+  "slug": "kw-6-2026",
+  "kw": 6,
+  "year": 2026,
+  "date": "09. Februar 2026",
+  "headline": "ChatGPT bucht jetzt dein Restaurant: Was du diese Woche kontrollieren musst",
+  "zahl_der_woche": {
+    "zahl": "25 Prozent",
+    "kontext": "Um diese Quote können deine echten Google-Bewertungen ansteigen, wenn du DetailliertBeispiele statt Floskeln einholst. Beweist: Qualität schlägt Quantität."
+  },
+  "news": [
+    {
+      "titel": "TheFork integriert Reservierungen direkt in ChatGPT",
+      "was_passiert": "<cite index=\"3-4,3-5\">Die Reservierungsplattform TheFork hat ihre Buchungsfunktion in ChatGPT integriert. Gäste können ab sofort über einfache Dialoge mit der KI Restaurants entdecken und direkt reservieren.</cite> Das ist nicht mehr Zukunft. Das ist jetzt.",
+      "was_bedeutet_das": "Dein Restaurant muss in TheFork oder OpenTable gelistet sein. Sonst empfiehlt ChatGPT dein Restaurant nicht. Kontrolliere diese Woche: Sind deine Daten vollständig, aktuell und korrekt? Fehlende Fotos, falsche Öffnungszeiten oder leere Beschreibungen kosten dich direkt Buchungen."
+    },
+    {
+      "titel": "TripAdvisor baut massive Fake-Review-Abwehr ein",
+      "was_passiert": "<cite index=\"21-2,21-7\">Echtzeit-Validierung durch maschinelles Lernen reduziert Spam um bis zu 40 Prozent. Die Plattform verzeichnet seit dem Rollout 25 Prozent mehr authentische Beiträge.</cite> KI erkennt jetzt Fakes zuverlässiger als je zuvor.",
+      "was_bedeutet_das": "Deine echten Bewertungen werden an Gewicht gewinnen. Konzentriere dich diese Woche: Aktuelle Mahlzeiten fotografieren, zwei Gäste zur detaillierten Bewertung bitten (Menü, Atmosphäre, Service konkret nennen). Je spezifischer die Reviews, desto höher ihre Gewichtung bei KI-Empfehlungen."
+    },
+    {
+      "titel": "Google AI ändert, wie Restaurants gefunden werden",
+      "was_passiert": "<cite index=\"25-7\">Google schaltet neue KI-Funktionen in über 40 Ländern frei, darunter Deutschland, Österreich und die Schweiz.</cite> <cite index=\"25-11,25-12\">Mit dem KI-Modus verschwinden klassische Linklisten zunehmend. Google konzentriert sich darauf, komplette Antworten zu liefern.</cite> Die Suche wird zum Dialog.",
+      "was_bedeutet_das": "Dein Restaurant braucht strukturierte Daten. Diese Woche: Speisekarte, Öffnungszeiten, Besonderheiten (glutenfrei, vegan, Terrasse) bei Google explizit eintragen. KI-Systeme verstehen nur das, was maschinenlesbar hinterlegt ist. Generische Beschreibungen funktionieren nicht mehr. Du musst präzise sein."
+    }
+  ],
+  "handlungsempfehlung": "90 Minuten: Kontrolliere dein Google-Profil (Öffnungszeiten, Speisekarte, Fotos), dein TheFork-Profil (Beschreibung vollständig?) und TripAdvisor (letzte 3 Reviews prüfen). Fehler kosten Buchungen in KI-Suchergebnissen unmittelbar.",
+  "seo": {
+    "title": "ChatGPT bucht dein Restaurant - KI-Gastro-Newsroom KW 6",
+    "metaDescription": "KW 6 2026: TheFork in ChatGPT live, TripAdvisor filtert Fakes, Google AI ändert Sichtbarkeit. Handlung: Profil-Check in 90 Min.",
+    "keywords": "KI Gastronomie Deutschland, Restaurant ChatGPT Reservierung, KI-Suche Gastro",
+    "canonicalUrl": "https://ai-gastro-hub.vercel.app/newsroom/kw-6-2026",
+    "datePublished": "2026-02-09T10:00:00.000Z",
+    "internalLinks": [
+      {
+        "url": "https://aeo-gastro.vercel.app",
+        "text": "Pruefe kostenlos ob ChatGPT und Google KI dein Restaurant finden"
+      },
+      {
+        "url": "https://geo-gastro.vercel.app",
+        "text": "Kostenloser KI-Reputations-Check fuer TripAdvisor und Google-Bewertungen"
+      }
+    ]
+  },
+  "generatedAt": "2026-03-18T19:05:40.005Z"
+}
