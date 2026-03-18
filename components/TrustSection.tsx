@@ -1,18 +1,5 @@
 export default function TrustSection() {
-  const ecosystem: { name: string; desc: string; url: string; color: string; internal?: boolean }[] = [
-    {
-      name: "AI-Gastro-Hub",
-      desc: "AI-Readiness für die Gastronomie",
-      url: "https://ai-gastro-hub.vercel.app",
-      color: "#FF006E",
-    },
-    {
-      name: "KI-Gastro-Newsroom",
-      desc: "Was KI für die Gastronomie bedeutet, jeden Montag neu",
-      url: "/newsroom",
-      color: "#FF006E",
-      internal: true,
-    },
+  const scanners: { name: string; desc: string; url: string; color: string }[] = [
     {
       name: "Wake | AEO",
       desc: "Wird dein Restaurant von ChatGPT&Co zitiert?",
@@ -48,21 +35,47 @@ export default function TrustSection() {
         className="border-t pt-12"
         style={{ borderColor: "rgba(255,255,255,0.07)" }}
       >
-        {/* Ecosystem Links */}
-        <div className="mb-12">
-          <div
-            className="text-xs tracking-widest uppercase mb-6"
-            style={{ color: "#888" }}
-          >
-            Teil des AI-Shift-Drift Ökosystems
+        <div
+          className="text-xs tracking-widest uppercase mb-8"
+          style={{ color: "#888" }}
+        >
+          Teil des AI-Shift-Drift Ökosystems
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
+          {/* Newsroom */}
+          <div>
+            <a
+              href="/newsroom"
+              className="flex items-start gap-3 group"
+            >
+              <div
+                className="w-[6px] h-[6px] rounded-full flex-shrink-0 mt-1"
+                style={{
+                  background: "#FF3CAC",
+                  boxShadow: "0 0 8px 2px #FF3CAC66",
+                }}
+              />
+              <div className="flex flex-col">
+                <div className="text-xs tracking-widest uppercase font-semibold gradient-accent">
+                  KI-Gastro-Newsroom
+                </div>
+                <div className="text-xs mt-0.5" style={{ color: "#555" }}>
+                  Was KI für die Gastronomie bedeutet, jeden Montag neu
+                </div>
+              </div>
+            </a>
           </div>
+
+          {/* Scanner */}
           <div className="flex flex-col gap-4">
-            {ecosystem.map((s) => (
+            {scanners.map((s) => (
               <a
                 key={s.name}
                 href={s.url}
                 className="flex items-start gap-3 group"
-                {...(!s.internal ? { target: "_blank", rel: "noopener noreferrer" } : {})}
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 <div
                   className="w-[6px] h-[6px] rounded-full flex-shrink-0 mt-1"
