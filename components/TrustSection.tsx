@@ -48,25 +48,27 @@ export default function TrustSection() {
               <a
                 key={s.name}
                 href={s.url}
-                className="flex items-center gap-3 group"
+                className="flex items-start gap-3 group"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <div
-                  className="w-[6px] h-[6px] rounded-full flex-shrink-0"
+                  className="w-[6px] h-[6px] rounded-full flex-shrink-0 mt-1"
                   style={{
                     background: s.color,
                     boxShadow: `0 0 8px 2px ${s.color}66`,
                   }}
                 />
-                <div
-                  className="text-xs tracking-widest uppercase font-semibold"
-                  style={{ color: s.color }}
-                >
-                  {s.name}
-                </div>
-                <div className="text-xs mt-0.5" style={{ color: "#555" }}>
-                  {s.desc}
+                <div className="flex flex-col">
+                  <div
+                    className="text-xs tracking-widest uppercase font-semibold"
+                    style={{ color: s.color }}
+                  >
+                    {s.name}
+                  </div>
+                  <div className="text-xs mt-0.5" style={{ color: "#555" }}>
+                    {s.desc}
+                  </div>
                 </div>
               </a>
             ))}
