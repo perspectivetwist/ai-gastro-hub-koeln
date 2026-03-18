@@ -22,6 +22,15 @@ export default function Home() {
       <ProductsSection />
       <VisionSection />
       <GastroFaq />
+      {/* Newsroom Link */}
+      <div className="text-center py-6" style={{ position: 'relative', zIndex: 1 }}>
+        <a
+          href="/newsroom"
+          className="text-xs text-gray-600 hover:text-gray-400 transition"
+        >
+          🍳 KI-Gastro-Newsroom — Was KI für Restaurants bedeutet
+        </a>
+      </div>
       <TrustSection />
     </>
   );
