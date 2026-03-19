@@ -14,12 +14,17 @@ export default function NewsroomOverview() {
 
   return (
     <main className="max-w-3xl mx-auto px-4 py-16">
-      <div className="flex items-center gap-3 mb-3">
-        <span className="text-3xl">🍳</span>
+      <div className="flex items-center gap-4 mb-3">
+        <img
+          src="/newsroom-icon.png"
+          alt="KI-Gastro-Newsroom"
+          className="w-10 h-10 rounded-lg object-cover"
+        />
         <h1 className="text-3xl font-bold text-white">KI-Gastro-Newsroom</h1>
       </div>
       <p className="text-gray-400 mb-12 text-sm">
-        Was KI für dein Restaurant bedeutet. Jeden Montag neu. Kein Tech-Jargon, nur was zählt.
+        KI-Insider für Gastro. Jeden Montag.<br/>
+        <span className="text-gray-500">Wer das nicht liest, erfährt es von der Konkurrenz.</span>
       </p>
 
       {articles.length === 0 ? (
