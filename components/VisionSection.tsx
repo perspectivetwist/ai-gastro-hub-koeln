@@ -12,9 +12,12 @@ export default function VisionSection() {
         className="text-lg md:text-xl max-w-3xl mx-auto leading-relaxed"
         style={{ color: "#cccccc" }}
       >
-        In 12 Monaten empfehlen KI-Systeme nicht nur Restaurants, sondern <span className="font-semibold text-white">buchen Tische</span> und <span className="font-semibold text-white">bewerten Erlebnisse</span>.
-        {" "}Wer <span className="font-semibold text-white">heute handelt</span>, bekommt die <span className="font-semibold text-white">Gäste von morgen</span>.
-        {" "}Wer wartet, <span className="font-semibold text-white">verliert sie</span> an Restaurants, die KI verstanden haben.
+        In 12 Monaten empfehlen KI-Systeme nicht nur Restaurants, sondern{" "}
+        <strong className="text-white">buchen Tische</strong> und{" "}
+        <strong className="text-white">bewerten Erlebnisse</strong>.{" "}
+        Wer <strong className="text-white">heute handelt</strong>, bekommt die{" "}
+        <strong className="text-white">Gäste von morgen</strong>.{" "}
+        Wer wartet, <strong className="text-white">verliert sie</strong> an Restaurants, die KI verstanden haben.
       </p>
       <div className="mt-10">
         <a
