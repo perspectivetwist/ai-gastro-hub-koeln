@@ -3,6 +3,12 @@
   "redirects": [
     {
       "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "ai-gastro-hub-koeln.vercel.app"
+        }
+      ],
       "destination": "https://www.ki-gastronomie.com/staedte/koeln/$1",
       "permanent": true
     }
